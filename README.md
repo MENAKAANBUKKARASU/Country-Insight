@@ -23,8 +23,9 @@ Welcome to Country Insight, your passport to a global adventure! 🌏✨ Explore
     JavaScript
 
 ## Screenshots
-![Screenshot (89)](https://github.com/MENAKAANBUKKARASU/Country-Insight/assets/113598770/9eeb87be-a418-4f04-9fac-b25f5b669f1f)
-![Screenshot (90)](https://github.com/MENAKAANBUKKARASU/Country-Insight/assets/113598770/c12878d5-92cf-4ec7-a724-aaf38748d666)
+![Uploading Screenshot (89).png…]()
+![Screenshot (90)](https://github.com/MENAKAANBUKKARASU/Country-Insight/assets/113598770/96999a5e-e0a2-4aa3-a446-b9a1ef42b6d9)
+
 
 ## Author
 
